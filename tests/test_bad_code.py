@@ -1,3 +1,4 @@
+import pytest
 from bad_code import poorly_formatted
 
 def test_poorly_formatted():
